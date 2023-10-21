@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 
 ## As an Engineer, I have experience:
 * Designing PCBs from the concept to the final product using noise reduction techniques and power distribution :electric_plug:.
